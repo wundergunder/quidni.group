@@ -23,7 +23,7 @@ export default function Footer() {
               © {new Date().getFullYear()} Quidni Group of Companies. All rights reserved.
             </p>
             <p className="text-gray-500 text-xs mt-1">
-              Building excellence across industries
+              Why Not Put a Dent in the Universe?
             </p>
           </div>
         </div>

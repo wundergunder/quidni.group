@@ -5,8 +5,8 @@ export default function Hero() {
     <section className="bg-gradient-to-br from-gray-50 to-white py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-          Building Excellence
-          <span className="block text-blue-600">Across Industries</span>
+          <span className="text-blue-600">Why Not Put a Dent</span>
+          <span className="block text-gray-900">in the Universe?</span>
         </h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8 leading-relaxed">
           Quidni Group represents a portfolio of specialized companies delivering 
