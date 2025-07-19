@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-3 mb-4 md:mb-0">
             <img 
-              src="/src/assets/images/Just Q (1).png" 
+              src="/images/Just Q (1).png" 
               alt="Quidni Group Logo" 
               className="w-8 h-8 object-contain"
             />

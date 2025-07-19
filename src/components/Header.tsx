@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex items-center py-6">
           <div className="flex items-center space-x-3">
             <img 
-              src="/src/assets/images/Just Q (1).png" 
+              src="/images/Just Q (1).png" 
               alt="Quidni Group Logo" 
               className="w-12 h-12 object-contain"
             />

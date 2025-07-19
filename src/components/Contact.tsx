@@ -14,7 +14,7 @@ export default function Contact() {
         <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-8 mb-8">
           <div className="flex items-center justify-center space-x-4 mb-6">
             <img 
-              src="/src/assets/images/Marty Headshot (1) copy.jpeg" 
+              src="/images/Marty Headshot (1) copy.jpeg" 
               alt="Marty Gunderson" 
               className="w-16 h-16 rounded-full object-cover border-2 border-blue-200"
             />
