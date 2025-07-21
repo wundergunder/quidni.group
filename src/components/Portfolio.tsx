@@ -5,7 +5,7 @@ import { Home, TrendingUp, Smartphone } from 'lucide-react';
 export default function Portfolio() {
   const companies = [
     {
-      title: "Quidni. Lifestyle. Design.",
+      title: "Quidni.Lifestyle.Design.",
       subtitle: "Real Estate Excellence",
       description: "Creating aspirational living experiences in the pristine paradise of Turks and Caicos. We specialize in luxury real estate development, property management, and investment advisory services that transform visions into extraordinary realities.",
       features: [
